@@ -1,0 +1,36 @@
+71.80.173.200 - 2012-08-28 02:08:46:000000 - Appearance:appearanceVenueList: - Start of the process ---> 48
+total Records=0
+71.80.173.200 - 2012-08-28 02:08:46:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+71.80.173.200 - 2012-08-28 02:08:46:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+71.80.173.200 - 2012-08-28 02:08:47:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+71.80.173.200 - 2012-08-28 02:08:47:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+71.80.173.200 - 2012-08-28 02:08:47:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0
+71.80.173.200 - 2012-08-28 02:08:02:000000 - Appearance:appearanceVenueList: - Start of the process ---> 48
+total Records=0
+71.80.173.200 - 2012-08-28 02:08:02:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+71.80.173.200 - 2012-08-28 02:08:02:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+71.80.173.200 - 2012-08-28 02:08:03:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+71.80.173.200 - 2012-08-28 02:08:03:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+71.80.173.200 - 2012-08-28 02:08:03:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0
+71.80.173.200 - 2012-08-28 05:08:23:000000 - Appearance:appearanceVenueList: - Start of the process ---> 48
+total Records=0
+71.80.173.200 - 2012-08-28 05:08:23:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+71.80.173.200 - 2012-08-28 05:08:23:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+71.80.173.200 - 2012-08-28 05:08:23:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+71.80.173.200 - 2012-08-28 05:08:23:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+71.80.173.200 - 2012-08-28 05:08:23:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0

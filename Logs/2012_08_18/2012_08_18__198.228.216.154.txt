@@ -1,0 +1,12 @@
+198.228.216.154 - 2012-08-18 10:08:03:000000 - Appearance:appearanceVenueList: - Start of the process ---> 1143
+total Records=0
+198.228.216.154 - 2012-08-18 10:08:03:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+198.228.216.154 - 2012-08-18 10:08:03:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+198.228.216.154 - 2012-08-18 10:08:04:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+198.228.216.154 - 2012-08-18 10:08:04:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+198.228.216.154 - 2012-08-18 10:08:04:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0

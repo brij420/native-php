@@ -1,0 +1,264 @@
+70.164.172.104 - 2012-08-10 06:08:34:000000 - Appearance:appearanceVenueList: - Start of the process ---> 1143
+total Records=0
+70.164.172.104 - 2012-08-10 06:08:34:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 06:08:34:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 06:08:35:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 06:08:35:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 06:08:35:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 06:08:05:000000 - Appearance:appearanceVenueList: - Start of the process ---> 1143
+total Records=0
+70.164.172.104 - 2012-08-10 06:08:05:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 06:08:05:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 06:08:05:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 06:08:05:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 06:08:05:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:27:000000 - Appearance:appearanceVenueList: - Start of the process ---> 1143
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:27:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:27:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:28:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:28:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:28:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:15:000000 - Appearance:appearanceVenueList: - Start of the process ---> 1143
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:15:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:15:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:16:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:16:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:16:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:46:000000 - Appearance:appearanceVenueList: - Start of the process ---> 1143
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:46:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:46:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:46:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:46:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:46:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:06:000000 - Appearance:appearanceVenueList: - Start of the process ---> 1143
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:06:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:06:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:07:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:07:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:07:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:25:000000 - Appearance:appearanceVenueList: - Start of the process ---> 1143
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:25:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:25:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:25:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:25:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:25:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:44:000000 - Appearance:appearanceVenueList: - Start of the process ---> 1143
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:44:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:44:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:45:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:45:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:45:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:57:000000 - Appearance:appearanceVenueList: - Start of the process ---> 1143
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:57:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:57:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:57:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:57:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:57:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:20:000000 - Appearance:appearanceVenueList: - Start of the process ---> 1143
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:20:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:20:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:20:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:20:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:20:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:15:000000 - Appearance:appearanceVenueList: - Start of the process ---> 1143
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:15:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:15:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:16:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:16:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:16:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:17:000000 - Appearance:appearanceVenueList: - Start of the process ---> 1143
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:17:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:17:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:17:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:17:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:17:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:45:000000 - Appearance:appearanceVenueList: - Start of the process ---> 1143
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:45:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:45:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:45:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:45:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 07:08:45:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:44:000000 - Appearance:appearanceVenueList: - Start of the process ---> 1143
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:44:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:44:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:45:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:45:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:45:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:06:000000 - Appearance:appearanceVenueList: - Start of the process ---> 1143
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:06:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:06:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:06:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:06:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:06:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:30:000000 - Appearance:appearanceVenueList: - Start of the process ---> 1143
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:30:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:30:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:31:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:31:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:31:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:50:000000 - Appearance:appearanceVenueList: - Start of the process ---> 1143
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:50:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:50:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:51:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:51:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:51:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:08:000000 - Appearance:appearanceVenueList: - Start of the process ---> 1143
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:08:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:08:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:08:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:08:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:08:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:25:000000 - Appearance:appearanceVenueList: - Start of the process ---> 1143
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:25:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:25:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:26:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:26:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:26:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:38:000000 - Appearance:appearanceVenueList: - Start of the process ---> 1143
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:38:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:38:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:39:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:39:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:39:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:58:000000 - Appearance:appearanceVenueList: - Start of the process ---> 1143
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:58:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:58:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:59:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:59:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:59:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:17:000000 - Appearance:appearanceVenueList: - Start of the process ---> 1143
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:17:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:17:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:18:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:18:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+70.164.172.104 - 2012-08-10 08:08:18:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0

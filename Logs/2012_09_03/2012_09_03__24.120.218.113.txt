@@ -1,0 +1,36 @@
+24.120.218.113 - 2012-09-03 01:09:51:000000 - Appearance:appearanceVenueList: - Start of the process ---> 1143
+total Records=0
+24.120.218.113 - 2012-09-03 01:09:51:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+24.120.218.113 - 2012-09-03 01:09:51:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+24.120.218.113 - 2012-09-03 01:09:52:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+24.120.218.113 - 2012-09-03 01:09:52:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+24.120.218.113 - 2012-09-03 01:09:52:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0
+24.120.218.113 - 2012-09-03 01:09:47:000000 - Appearance:appearanceVenueList: - Start of the process ---> 1143
+total Records=0
+24.120.218.113 - 2012-09-03 01:09:47:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+24.120.218.113 - 2012-09-03 01:09:47:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+24.120.218.113 - 2012-09-03 01:09:48:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+24.120.218.113 - 2012-09-03 01:09:48:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+24.120.218.113 - 2012-09-03 01:09:48:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0
+24.120.218.113 - 2012-09-03 01:09:08:000000 - Appearance:appearanceVenueList: - Start of the process ---> 1143
+total Records=0
+24.120.218.113 - 2012-09-03 01:09:08:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+24.120.218.113 - 2012-09-03 01:09:08:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+24.120.218.113 - 2012-09-03 01:09:09:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+24.120.218.113 - 2012-09-03 01:09:09:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+24.120.218.113 - 2012-09-03 01:09:09:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0

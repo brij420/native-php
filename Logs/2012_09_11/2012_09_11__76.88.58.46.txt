@@ -1,0 +1,12 @@
+76.88.58.46 - 2012-09-11 09:09:08:000000 - Appearance:appearanceVenueList: - Start of the process ---> 3401
+total Records=0
+76.88.58.46 - 2012-09-11 09:09:08:000000 - Appearance:DistanceByAPI: - Start of the process ---> 
+total Records=0
+76.88.58.46 - 2012-09-11 09:09:08:000000 - Appearance:Maquest: - Request Start ---> 
+total Records=0
+76.88.58.46 - 2012-09-11 09:09:08:000000 - Appearance:Mapquest: - Request End ---> 
+total Records=0
+76.88.58.46 - 2012-09-11 09:09:08:000000 - Appearance:DistanceByAPI: - End of the process ---> 
+total Records=0
+76.88.58.46 - 2012-09-11 09:09:08:000000 - Appearance:appearanceVenueList: - End of the process ---> 
+total Records=0
